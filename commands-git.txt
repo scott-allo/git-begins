@@ -4,4 +4,9 @@ git commit -m
 git push
 git pull
 
+git branch
+git checkout
 git branch -M (dire qu'on est sur la branche main)
+
+git init pour savoir si c'est bien un projet git
+
