@@ -2,3 +2,6 @@ git clone url du repository
 git add .
 git commit -m
 git push
+git pull
+
+git branch -M (dire qu'on est sur la branche main)
